@@ -63,15 +63,15 @@
     </tr>
     <tr>
       <td style="text-align:left">&#x7533;&#x8BF7;&#x6750;&#x6599;</td>
-      <td style="text-align:left">2&#x5F20;&#x7533;&#x8BF7;&#x8868;+&#x79BB;&#x5883;&#x8BC1;&#x660E;</td>
+      <td style="text-align:left">2&#x5F20;&#x7533;&#x8BF7;&#x8868;+&#x79BB;&#x5883;&#x8BC1;&#x660E;&#x7B49;,&#x89C1;&#x6CE8;&#x610F;&#x4E8B;&#x9879;</td>
       <td
       style="text-align:left">1&#x5F20;&#x7533;&#x8BF7;&#x8868; + &#x79BB;&#x5883;&#x8BC1;&#x660E;&#xFF08;&#x53EF;&#x5148;&#x4EA4;&#x7533;&#x8BF7;&#x8868;&#xFF09;</td>
     </tr>
     <tr>
       <td style="text-align:left">&#x7533;&#x8BF7;&#x8868;</td>
-      <td style="text-align:left"><a href="https://www.zas.admin.ch/zas/en/home/particuliers/demander-une-rente-de-vieillesse/nationalite-d_un-autre-pays-.html">&#x8868;&#x683C;1</a>
-      </td>
-      <td style="text-align:left">&#x4ECE;&#x76F8;&#x5173;&#x673A;&#x6784;&#x8054;&#x7CFB;&#x4EBA;&#x5904;&#x83B7;&#x53D6;&#xFF08;&#x4F2F;&#x5C14;&#x5C3C;&#x4E3A;BPK&#xFF09;</td>
+      <td style="text-align:left">&#x81EA;&#x5DF1;&#x4E0B;&#x8F7D;&#xFF0C;&#x89C1;&#x540E;&#x6587;&#x6CE8;&#x610F;&#x4E8B;&#x9879;</td>
+      <td
+      style="text-align:left">&#x4ECE;&#x76F8;&#x5173;&#x673A;&#x6784;&#x8054;&#x7CFB;&#x4EBA;&#x5904;&#x83B7;&#x53D6;&#xFF08;&#x4F2F;&#x5C14;&#x5C3C;&#x4E3A;BPK&#xFF09;</td>
     </tr>
     <tr>
       <td style="text-align:left">&#x8F6C;&#x8D26;&#x9014;&#x5F84;</td>
@@ -90,14 +90,21 @@
 
 ### 注意事项（以伯尔尼为例）
 
-1. BPK的联系人可以在BPK定期寄给你的信件上看到，有他/她的电话和邮箱。
-2. 对于申请取回BV（第二支柱，在伯尔尼即为BPK负责的部分），已婚人士需要和配偶一起现场签字，或者在有资质的公证人面前签字后邮寄给相应联系人。
+1. BPK的联系人可以在BPK定期寄给你的信件上看到，有他/她的电话和邮箱。和他/她联系后，她会发给你相应的申请表（在他发给你的表格中，你的编号等个人信息已经填好）
+2. 对于申请取回BV（第二支柱，在伯尔尼即为BPK负责的部分），**已婚人士需要和配偶一起现场签字，**或者在有资质的公证人面前签字后邮寄给相应联系人。
 3. 取回第二支柱的申请可以提前提交，因为申请表上需要写预计离开瑞士的月份，然后之后等要离开时办好离境证明了，把离境证明直接邮寄给BPK的联系人即可。
+4. AHV（第一支柱）的申请通过邮寄即可，网上可以下载两个表格，分别是《[CLAIM FOR THE REFUND OF OASI CONTRIBUTIONS](https://www.zas.admin.ch/zas/en/home/particuliers/demander-une-rente-de-vieillesse/nationalite-d_un-autre-pays-.html)》和《[Application for the payment of OASI/DI benefits into a personal bank or postal account for people living abroad](https://www.zas.admin.ch/zas/en/home/particuliers/paiement-des-prestations.html)》。（下载页面的链接名称和上述表格名称可能略有不同）。
+5. AHV申请还需要以下材料：
+   1. Copy of the OASI certificate. 
+   2. Copy of the official confirmation of departure from Switzerland \(if available\). 
+   3. Current nationality certificate or copies of all valid passports for yourself and your family: spouse and children under the age of 25. 
+   4. For refugees, a certificate concerning their status is essential. 
+   5. Legalised, current residence certificate for your family and yourself as well as for the planned place of residence abroad for each member of your family
 
 ### 我自己的经历
 
 1. 我是通过朋友和我说，才知道BPK的部分需要夫妻二人共同签字，和BPK的联系人询问之后，如果伴侣没法一起去签字的话，要在有资质的公证人面前签字后上交。所以赶紧和BPK的联系人定了时间去签字。BPK的工作人员很热情，往来几次邮件都是5分钟之内回复，直接约了2天后见面签字。把她发给我的表格填好，拿着夫妻二人的护照，就去顺利签字了。之后等我办好离境证明的时候再把离境证明发给她即可。
-2. AHV（第一支柱）的申请通过邮寄即可，网上可以下载两个表格，分别是《[CLAIM FOR THE REFUND OF OASI CONTRIBUTIONS](https://www.zas.admin.ch/zas/en/home/particuliers/demander-une-rente-de-vieillesse/nationalite-d_un-autre-pays-.html)》和《[Application for the payment of OASI/DI benefits into a personal bank or postal account for people living abroad](https://www.zas.admin.ch/zas/en/home/particuliers/paiement-des-prestations.html)》。（下载页面的链接名称和上述表格名称可能略有不同）
+2. AHV的申请我还没开始弄，之后会继续更新。
 
 ### 参考资料
 
