@@ -10,7 +10,7 @@
   <thead>
     <tr>
       <th style="text-align:left"></th>
-      <th style="text-align:left">&#x7B2C;&#x4E00;&#x652F;&#x67F1;&#xFF08;<b>Pillar 2</b>&#xFF09;</th>
+      <th style="text-align:left">&#x7B2C;&#x4E00;&#x652F;&#x67F1;&#xFF08;<b>Pillar 1</b>&#xFF09;</th>
       <th
       style="text-align:left">&#x7B2C;&#x4E8C;&#x652F;&#x67F1;&#xFF08;<b>Pillar 2</b>&#xFF09;</th>
     </tr>
@@ -63,12 +63,14 @@
     </tr>
     <tr>
       <td style="text-align:left">&#x7533;&#x8BF7;&#x6750;&#x6599;</td>
-      <td style="text-align:left">2&#x5F20;&#x7533;&#x8BF7;&#x8868;</td>
-      <td style="text-align:left">1&#x5F20;&#x7533;&#x8BF7;&#x8868; + &#x79BB;&#x5883;&#x8BC1;&#x660E;&#xFF08;&#x53EF;&#x5148;&#x4EA4;&#x7533;&#x8BF7;&#x8868;&#xFF09;</td>
+      <td style="text-align:left">2&#x5F20;&#x7533;&#x8BF7;&#x8868;+&#x79BB;&#x5883;&#x8BC1;&#x660E;</td>
+      <td
+      style="text-align:left">1&#x5F20;&#x7533;&#x8BF7;&#x8868; + &#x79BB;&#x5883;&#x8BC1;&#x660E;&#xFF08;&#x53EF;&#x5148;&#x4EA4;&#x7533;&#x8BF7;&#x8868;&#xFF09;</td>
     </tr>
     <tr>
       <td style="text-align:left">&#x7533;&#x8BF7;&#x8868;</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left"><a href="https://www.zas.admin.ch/zas/en/home/particuliers/demander-une-rente-de-vieillesse/nationalite-d_un-autre-pays-.html">&#x8868;&#x683C;1</a>
+      </td>
       <td style="text-align:left">&#x4ECE;&#x76F8;&#x5173;&#x673A;&#x6784;&#x8054;&#x7CFB;&#x4EBA;&#x5904;&#x83B7;&#x53D6;&#xFF08;&#x4F2F;&#x5C14;&#x5C3C;&#x4E3A;BPK&#xFF09;</td>
     </tr>
     <tr>
@@ -95,6 +97,7 @@
 ### 我自己的经历
 
 1. 我是通过朋友和我说，才知道BPK的部分需要夫妻二人共同签字，和BPK的联系人询问之后，如果伴侣没法一起去签字的话，要在有资质的公证人面前签字后上交。所以赶紧和BPK的联系人定了时间去签字。BPK的工作人员很热情，往来几次邮件都是5分钟之内回复，直接约了2天后见面签字。把她发给我的表格填好，拿着夫妻二人的护照，就去顺利签字了。之后等我办好离境证明的时候再把离境证明发给她即可。
+2. AHV（第一支柱）的申请通过邮寄即可，网上可以下载两个表格，分别是《[CLAIM FOR THE REFUND OF OASI CONTRIBUTIONS](https://www.zas.admin.ch/zas/en/home/particuliers/demander-une-rente-de-vieillesse/nationalite-d_un-autre-pays-.html)》和《[Application for the payment of OASI/DI benefits into a personal bank or postal account for people living abroad](https://www.zas.admin.ch/zas/en/home/particuliers/paiement-des-prestations.html)》。（下载页面的链接名称和上述表格名称可能略有不同）
 
 ### 参考资料
 
