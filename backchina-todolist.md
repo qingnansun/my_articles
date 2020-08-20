@@ -38,7 +38,7 @@
    4. Receive确认信：8月19日
 6. **联系邮寄大件行李回国**
    1. 可以通过瑞士老田的“集运直邮”进行邮寄，价格比较好
-   2. [具体页面在](https://www.ruizhiyou.com/product/ems_pick_delivery/)，老田的微信可以在学联群问一下
+   2. [具体页面在这](https://www.ruizhiyou.com/product/ems_pick_delivery/)，老田的微信可以在学联群问一下
    3. 最重30kg，价格170瑞郎
    4. 箱子尺寸最大60\*60\*100cm
    5. 理论4到8天，一般2周左右可以到，国内部分EMS
