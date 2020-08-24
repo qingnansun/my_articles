@@ -11,7 +11,7 @@
 1. **修改SBB半价卡HA的自动续期（以及取消半价卡）**
    1. 对于长期在瑞士居住的人，HA通常为自动续期
    2. 如果不在取消期限内取消合同，则HA会被自动续期一年，强制缴费
-   3. 详细信息可以参见[这](http://www.qingnansun.de/bernlife/)[这里](http://www.qingnansun.de/bernlife/)的重要事项的第4条
+   3. 详细信息可以参见[这](http://www.qingnansun.de/bernlife/)[里](http://www.qingnansun.de/bernlife/)的重要事项的第4条
    4. 我的半价卡于6月份到期，我提前取消了自动续期，并彻底取消了合同。
    5. Check: 4月8日
 2. **修改宿舍合同（A到B，学期合同到按月合同）**
