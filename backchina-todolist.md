@@ -86,6 +86,10 @@
     2. 我用的电话卡不涉及月费，不涉及此项
 14. **取消保险**
     1. 和相应保险公司邮件或电话联系
+15. **在邮局声明邮寄地址更改**
+    1. 可以把目前的地址改成一个在瑞士朋友的地址，比如你是ABC， 同学是XYZ， 那你可以把地址改为：ABC， c/o XYV， XYZ的地址
+    2. 可以直接去邮局声明
+    3. 或者直接在post的网站修改也行，前提是你要在post官网免费注册一个用户，然后在[kundencent](https://www.post.ch/de/kundencenter/kundencenter)修改即可（Mein Profil中的“Umzug melden”中）
 
 ![](.gitbook/assets/20200804-wei-tu-.png)
 
