@@ -93,7 +93,9 @@
     1. 可以把目前的地址改成一个在瑞士朋友的地址，比如你是ABC， 同学是XYZ， 那你可以把地址改为：ABC， c/o XYV， XYZ的地址
     2. 可以直接去邮局声明
     3. 或者直接在post的网站修改也行，前提是你要在post官网免费注册一个用户，然后在[kundencent](https://www.post.ch/de/kundencenter/kundencenter)修改即可（Mein Profil中的“Umzug melden”中）
-16. 进行核酸检测
+16. **退订各类（免费）报纸，如coop等**
+    1. Check: 9月15日
+17. 进行核酸检测
 
 ![](.gitbook/assets/20200804-wei-tu-.png)
 
