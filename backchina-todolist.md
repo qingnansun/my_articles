@@ -98,7 +98,8 @@
     2. 可以直接去邮局声明
     3. 或者直接在post的网站修改也行，前提是你要在post官网免费注册一个用户，然后在[kundencent](https://www.post.ch/de/kundencenter/kundencenter)修改即可（Mein Profil中的“Umzug melden”中）
 17. **退订各类（免费）报纸，如coop等**
-    1. Check: 9月15日
+    1. 在报纸上写的或者网上搜索的联系邮箱发邮件退订。
+    2. Check: 9月15日
 18. 进行核酸检测
 
 ![](.gitbook/assets/20200804-wei-tu-.png)
