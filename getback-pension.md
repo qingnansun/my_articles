@@ -110,11 +110,6 @@
    4. For refugees, a certificate concerning their status is essential. 
    5. Legalised, current residence certificate for your family and yourself as well as for the planned place of residence abroad for each member of your family
 
-### 我自己的经历
-
-1. BPK的部分需要夫妻二人共同签字，和BPK的联系人询问之后，如果伴侣没法一起去签字的话，要在有资质的公证人面前签字后上交，这样就比较麻烦。所以赶紧和BPK的联系人定了时间去签字。BPK的工作人员很热情，往来几次邮件都是5分钟之内回复，直接约了2天后见面签字。把她发给我的表格填好，拿着夫妻二人的护照，就去顺利签字了。之后等我办好离境证明的时候再把离境证明发给她即可。
-2. AHV的申请我还没开始弄，之后会继续更新。目前知道第一支柱可以直接转回中国，我希望转回中国，因为瑞士往国内转账的手续费不贵，但是保留瑞士Postfinance账户的管理费一个月要25瑞郎（如果人已经离境）。根据参考资料的信息，我们在国内的账户会收到美元，不过学长多年前收到的是瑞郎，这个需要和工作人员再确认一下。
-
 ### 致谢
 
 感谢在申请过程中为我提供各种信息的朋友们，尤其是不断被我”骚扰“的XD同学和LL学长。
